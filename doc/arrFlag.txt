@@ -1,0 +1,13 @@
+Array ( 
+[0] => Array ( [flagFrom] => 1 [flagLen] => 16 [flag] => TIME ZONE [again] => 1 [dataFrom] => 17 [dataLen] => 2 [fldName] => TimeZone [tableName] => BSC [extInfo] => [hasRead] => 0 [dataValue] => ) 
+
+[1] => Array ( [flagFrom] => -1 [flagLen] => 0 [flag] => [again] => 0 [dataFrom] => -15 [dataLen] => 15 [fldName] => nml [tableName] => BSC [extInfo] => [hasRead] => 0 [dataValue] => ) 
+
+[2] => Array ( [flagFrom] => 1 [flagLen] => 8 [flag] => TIME 20 [again] => 0 [dataFrom] => 7 [dataLen] => 20 [fldName] => logTime [tableName] => BSC [extInfo] => M [hasRead] => 0 [dataValue] => ) 
+
+[3] => Array ( [flagFrom] => 1 [flagLen] => 20 [flag] => OMU [again] => 0 [dataFrom] => 21 [dataLen] => 16 [fldName] => GateWay [tableName] => BSC [extInfo] => [hasRead] => 0 [dataValue] => ) 
+
+[4] => Array ( [flagFrom] => 1 [flagLen] => 35 [flag] => HARDWARE SUPPORTED MAXIMUM TRX CAPA [again] => 0 [dataFrom] => 43 [dataLen] => 5 [fldName] => TrxCapacity [tableName] => BSC [extInfo] => [hasRead] => 0 [dataValue] => ) 
+
+[5] => Array ( [flagFrom] => 1 [flagLen] => 10 [flag] => 000 BSC [again] => 0 [dataFrom] => 44 [dataLen] => 15 [fldName] => BscAddress [tableName] => BSC [extInfo] => [hasRead] => 0 [dataValue] => ) [6] => Array ( [flagFrom] => 1 [flagLen] => 10 [flag] => 000 BSC [again] => 0 [dataFrom] => 19 [dataLen] => 6 [fldName] => BscSn [tableName] => BSC [extInfo] => [hasRead] => 0 [dataValue] => ) [7] => Array ( [flagFrom] => 1 [flagLen] => 10 [flag] => 000 BSC [again] => 0 [dataFrom] => 31 [dataLen] => 11 [fldName] => BscId [tableName] => BSC [extInfo] => E [hasRead] => 0 [dataValue] => ) [8] => Array ( [flagFrom] => -1 [flagLen] => 0 [flag] => / [again] => 0 [dataFrom] => -15 [dataLen] => 15 [fldName] => ip [tableName] => BSC [extInfo] => [hasRead] => 0 [dataValue] => ) [9] => Array ( [flagFrom] => 1 [flagLen] => 7 [flag] => SWPRO [again] => 0 [dataFrom] => 1 [dataLen] => 7 [fldName] => BscType [tableName] => BSC [extInfo] => [hasRead] => 0 [dataValue] => ) [10] => Array ( [flagFrom] => 1 [flagLen] => 7 [flag] => SWCOP [again] => 0 [dataFrom] => 1 [dataLen] => 7 [fldName] => BscType [tableName] => BSC [extInfo] => [hasRead] => 0 [dataValue] => ) [11] => Array ( [flagFrom] => 1 [flagLen] => 16 [flag] => TIME ZONE [again] => 0 [dataFrom] => 36 [dataLen] => 3 [fldName] => summer [tableName] => BSC [extInfo] => [hasRead] => 0 [dataValue] => ) 
+[12] => Array ( [flagFrom] => 1 [flagLen] => 11 [flag] => TOTAL [again] => 0 [dataFrom] => 12 [dataLen] => 6 [fldName] => TrxCount [tableName] => BSC [extInfo] => [hasRead] => 0 [dataValue] => ) ) 

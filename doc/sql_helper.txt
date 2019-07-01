@@ -1,0 +1,6 @@
+WHERE bsc_id = 'R6105'
+
+SELECT *
+FROM `cmds`
+ORDER BY bsc_id, id
+LIMIT 0 , 999
